@@ -1,0 +1,38 @@
+
+header {
+    background-image: url('../img/background-home.jpg');
+}
+
+.do-more .container {
+    display: flex;
+    align-items: center;
+}
+
+.do-more .do-more-text {
+    width: 50%;
+    padding: 0 40px;
+}
+
+.do-more .do-more-text h3{
+    font-size: 56px;
+}
+
+.do-more .do-more-text p {
+    margin: 5px 0 10px 0px;
+}
+
+.do-more .do-more-img {
+    width: 50%;
+}
+
+.do-more .do-more-img img{
+    width: 100%;
+}
+
+.depositions h3, p {
+    text-align: center;
+}
+
+.depositions p {
+    margin-bottom: 20px;
+}
